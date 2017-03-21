@@ -3,7 +3,7 @@
 </p>
 
 ## What is Automated Testing?
-*Automated testing is a practice that we can use besides to the usual manual testing, as we all know, manual testing is performed by testers that design and execute tests on a system manually and without any use of external tools. *
+* Automated testing is a practice that we can use besides to the usual manual testing, as we all know, manual testing is performed by testers that design and execute tests on a system manually and without any use of external tools. *
 
 Common automated testing tools
 
