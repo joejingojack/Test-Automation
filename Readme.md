@@ -14,7 +14,7 @@ Common automated testing tools
 | Unit Testing   	   | TestNG, NUnit,xUnit…								|
 | Security Testing     | WireShark, WebInspect, fiddler….                   |
 | Penetration Testing  | CORE impact, Metasploit, Nessus, 					|
-|                        Retina,Sqlmap,Sqlninja,beEF,Hydra, Nagios,Nmap…..  |              								
+|                        Retina,Sqlmap,Sqlninja,beEF,Hydra, Nagios,Nmap…..  |
 | Performance Testing  | JMeter, LoadRunner, WebLoad, 						|
 |                        NeoLoad,Qtest,Loadster,Wapt….                      |
 | Regresssion Testing  | TestCafe,QTP,vTest,Winrunner,TestComplete …        |
