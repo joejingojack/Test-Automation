@@ -25,3 +25,30 @@ Common automated testing tools
 | Cloud Testing	           | SaltStack,Fabric, Chef, Puppet, Juju…          |
 +-----------+---------------------------------------------------------------+
 ```
+
+### WebdriverIO Syntax
+
+```
+browser.url('http://jobs.bg');
+$('#txtarea').setValue('webdriver');
+$('#btn1').click();
+```
+
+Far simpler than the original selenium webdriverjs
+
+```
+driver.get('http://jobs.bg');
+driver.findElement(webdriver.By.id('txtarea')).sendKeys('webdriver');
+driver.findElement(webdriver.By.id('btn1')).click();
+```
+
+And far easier than the traditional JS
+
+```
+browser
+  .get("http://jobs.bg")
+  .elementById('txtarea')
+  .sendKeys('webdriver')
+  .elementById('btn1')
+  .click()
+```
