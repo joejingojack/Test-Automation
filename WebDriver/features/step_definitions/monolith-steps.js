@@ -1,3 +1,8 @@
+/* global browser:true */
+/* global expect:true */
+/* eslint linebreak-style: ["error", "windows"] */
+/* eslint spaced-comment: ["error", "always"] */
+
 /* eslint func-names:0, prefer-arrow-callback: off */
 var myStepDefinitionsWrapper = function () { // eslint-disable-line
   this.Given(/^I visit webpage "([^"]*)"$/, function (url) {
